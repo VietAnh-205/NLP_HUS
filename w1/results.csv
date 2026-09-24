@@ -1,0 +1,6 @@
+Query,P@5,R@5,MRR,Expected Relevant,Retrieved Top-K
+medical image classification,0.0,0.0,0.0,"[12, 45, 78, 102]","[18971, 8527, 19908, 15682, 12658]"
+chest x-ray segmentation,0.0,0.0,0.0,"[55, 89, 120]","[25256, 16386, 17899, 19001, 19968]"
+time series forecasting,0.0,0.0,0.0,"[23, 201, 305]","[10730, 19967, 11299, 29575, 3649]"
+operating systems deadlock,0.0,0.0,0.0,"[9, 14, 42, 67, 99]","[18857, 23505, 26024, 9492, 7331]"
+natural language processing,0.0,0.0,0.0,"[1, 2, 3, 4]","[25428, 8705, 5699, 24482, 701]"
