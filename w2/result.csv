@@ -1,0 +1,6 @@
+Context,Prediction,Actual next word
+the cat,", (0.24), 's (0.20), box (0.20)",was
+natural language,"processing (0.40), . (0.40), speech (0.20)",processing
+machine learning,"and (0.35), , (0.24), to (0.21)",models
+one of the,"most (0.37), best (0.20), world (0.19)",most
+in the,"world (0.32), past (0.19), first (0.18)",world
