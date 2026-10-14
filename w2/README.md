@@ -18,16 +18,27 @@ Buổi lab này hướng tới việc chuyển hóa kiến thức lý thuyết v
 
 ## 📁 2. Cấu trúc thư mục nộp bài (Deliverables)
 
-Thư mục `w2/` bao gồm các tệp tin sau:
+```
+lab02/
+├── README.md
+├── calculations.md
+├── prediction.md
+├── ngram_lm.py
+├── experiments.ipynb
+├── results.csv
+├── error_analysis.md
+└── reflection.md
+```
 
-```
-w2/
-├── README.md             # File tổng quan hướng dẫn và mô tả lab
-├── caculator.pdf         # Các bài tính toán tay xác suất và Perplexity
-├── prediction.pdf        # Dự đoán giả thuyết trước khi chạy thực nghiệm
-├── ngrams_lm.py          # Code triển khai lớp mô hình N-gram Language Model
-├── experiment.ipynb      # Notebook huấn luyện, tính toán Perplexity và ứng dụng
-├── result.csv            # File lưu kết quả thực nghiệm Next-word prediction
-├── error_analysis.md     # Bảng tổng hợp và phân tích các trường hợp lỗi
-└── reflection.md         # Trả lời câu hỏi phân tích, suy ngẫm lý thuyết chuyên sâu
-```
+Trong đó:
+
+| File | Nội dung |
+|:---|:---|
+| `calculations.md` | Tính toán bằng tay |
+| `prediction.md` | Dự đoán trước experiment |
+| `ngram_lm.py` | Implementation |
+| `experiments.ipynb` | Experiments |
+| `results.csv` | Perplexity + prediction results |
+| `error_analysis.md` | Phân tích lỗi |
+| `reflection.md` | Câu hỏi tổng kết |
+
