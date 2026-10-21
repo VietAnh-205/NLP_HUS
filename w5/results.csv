@@ -1,0 +1,7 @@
+Model,Representation,Parameters,Max Length,Training Time (s),Accuracy,Precision,Recall,F1
+Logistic Regression,TF-IDF (Unigram),5000,-,0.6700,0.8200,0.7643,0.8759,0.8163
+Simple RNN,Learned Embedding,328386,100,4.5200,0.7433,0.7310,0.7520,0.7413
+LSTM,Learned Embedding,353154,100,9.8500,0.8333,0.8250,0.8460,0.8353
+GRU,Learned Embedding,344898,100,8.2100,0.8167,0.8100,0.8280,0.8189
+LSTM (L=50),Learned Embedding,353154,50,5.1400,0.7800,0.7710,0.7770,0.7740
+LSTM (L=200),Learned Embedding,353154,200,18.4200,0.8400,0.8315,0.8455,0.8385
